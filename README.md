@@ -1,9 +1,17 @@
-# 👋 Hi, I'm Petar!
+<h1 align="center">Hi 👋, I'm Petar! (/ˈpɛ.tar/)</h1>
+<h3 align="center">CS student passionate about SysAdmin and Homelabs</h3>
+<div align="center">
 - 👀 I'm currently studying a BSc in Business Computing at Anatolia College - Thessaloniki.
 - 🌱 Currently managing a Proxmox Homelab w/ self-made services + automations
-- 👐 Open for any collaborations or projects.
-- 📫 Reach out: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/velkovskiiiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/velkovskipetar) [![Email](https://img.shields.io/badge/email-email?color=gray)](mailto:petar@velkovski.xyz)
+- 👐 Open for any collaborations or projects!
+  
+<h3>Let's get in touch!</h3>
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/velkovskiiiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/velkovskipetar) [![Email](https://img.shields.io/badge/email-email?style=for-the-badge&color=gray)](mailto:petar@velkovski.xyz)
+
+</div>
+
+- 📫 Reach out: 
 ## Programming Languages & Frameworks
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
@@ -19,7 +27,4 @@
 ## Creative & Design
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinity%20photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=peeetar&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
