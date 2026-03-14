@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Petar! (/ˈpɛ.tar/)</h1>
 <h3 align="center">CS student passionate about SysAdmin and Homelabs</h3>
 <div align="center">
-- 👀 I'm currently studying a BSc in Business Computing at Anatolia College - Thessaloniki.
-- 🌱 Currently managing a Proxmox Homelab w/ self-made services + automations
-- 👐 Open for any collaborations or projects!
-  
+<div align="center" style="font-family: 'Courier New', monospace; color: #00ff00; background-color: #000000; padding: 15px; border-radius: 5px; display: inline-block; margin: 10px 0;">
+
+```
+👀 I'm currently studying a BSc in Business Computing at Anatolia College - Thessaloniki.
+🌱 Currently managing a Proxmox Homelab w/ self-made services + automations
+👐 Open for any collaborations or projects!
+```
+
+</div>
+
 <h3>Let's get in touch!</h3>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/velkovskiiiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/velkovskipetar) [![Email](https://img.shields.io/badge/email-email?style=for-the-badge&color=gray)](mailto:petar@velkovski.xyz)
