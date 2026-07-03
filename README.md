@@ -20,16 +20,6 @@ I'm a Business Computing student at the American College of Thessaloniki, a self
 * **Systems & Infra:** Homelab • Proxmox • Networking • Linux • Self-hosting • Systems Architecture • Cloudflare • Git
 * **Languages & Frameworks:** Python • AI & LLM APIs • Node.js • C# / .NET • TanStack Start • React
 
-### 🗣️ Languages I Speak
-
-| Language | Proficiency |
-| --- | --- |
-| **Macedonian** | Native |
-| **English** | C1 |
-| **Serbian / Croatian** | B2 / A2 |
-| **German** | B1 |
-| **Greek** | A2 |
-
 ---
 
 ## 🚀 Highlighted Projects
