@@ -1,4 +1,4 @@
-# Hi, I'm Petar Velkovski! 👋
+# Hi, I'm Petar! 👋
 ### Homelab & Networks • Systems Architecture • Thessaloniki, Greece
 
 I'm a Business Computing student at the American College of Thessaloniki, a self-taught systems administrator, and an aspiring backend/systems engineer learning architecture the hard way (by breaking things and taping them back together).
