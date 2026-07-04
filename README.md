@@ -2,7 +2,7 @@
 
 # Petar Velkovski
 
-** System Administration · Student · Thessaloniki, Greece**
+**System Administration · Student · Thessaloniki, Greece**
 
 <a href="https://velkovski.xyz">velkovski.xyz</a> ·
 <a href="mailto:petar@velkovski.xyz">petar@velkovski.xyz</a> ·
