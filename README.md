@@ -1,58 +1,50 @@
-# Hi, I'm Petar! 👋
-### Homelab & Networks • Systems Architecture • Thessaloniki, Greece
+<div align="center">
 
-I'm a Business Computing student at the American College of Thessaloniki, a self-taught systems administrator, and an aspiring backend/systems engineer learning architecture the hard way (by breaking things and taping them back together).
+# Petar Velkovski
 
----
+** System Administration · Student · Thessaloniki, Greece**
 
-## 🔭 What I'm Up To Right Now
+<a href="https://velkovski.xyz">velkovski.xyz</a> ·
+<a href="mailto:petar@velkovski.xyz">petar@velkovski.xyz</a> ·
+<a href="https://linkedin.com/in/velkovskipetar">LinkedIn</a>
 
-* 🧠 **LLM Junior Backend Engineer** working in a team for an *Anatolia × AUTH Cardiology Project*, building something helpful.
-* 🏛️ **SGA President** at the American College of Thessaloniki (2026–2027).
-* 🖥️ **Homelabbing:** Continuously tweaking, breaking, and fixing my self-hosted Proxmox cluster.
+</div>
 
----
+<br>
 
-## 🛠️ Tech Stack & Skills
+I'm a student at the American College of Thessaloniki and a self-taught sysadmin, currently learning systems architecture the hard way — by breaking things and taping them back together. Most of what I know comes from my homelab and passion project that take up 90% of my free time and energy.
 
-### Core Infrastructure & Development
+Currently I volunteer as a junior backend engineer on an AI health app. Additionally, I serve as President for the Student Government at ACT for 2026/27. 
 
-* **Systems & Infra:** Homelab • Proxmox • Networking • Linux • Self-hosting • Systems Architecture • Cloudflare • Git
-* **Languages & Frameworks:** Python • AI & LLM APIs • Node.js • C# / .NET • TanStack Start • React
+## What I work with
 
----
+Mostly infrastructure: Proxmox, Linux, networking, self-hosting, Cloudflare, and Git. On the development side I write Python and Node.js, work with AI and LLM APIs, and I've done some C# / .NET. My portfolio site runs on TanStack Start and React, deployed on Cloudflare Pages.
 
-## 🚀 Highlighted Projects
+## Things I've built
 
-### 💻 [Homelab & Network Infrastructure]()
+**[Homelab & network infrastructure]()** — Single-node Proxmox cluster. It started as a side project and grew into a full setup with proper routing and segmented services. It breaks often, and fixing it has taught me more than any college course so far.
 
-A self-hosted Proxmox cluster that handles my local services, routing, and development environments. It's where 90% of my free time and coffee go.
+**Cardiology AI agent** — Anatolia University × AUTH project. Backend work on a AI conversational agent for a real medical context.
 
-### 🫀 Cardiology AI Conversational Agent
+**[NorthEuraLex language classifier]()** — my first experiment with machine learning, an NLP tool that classifies five languages from raw word data. Nothing fancy but a really fun project to code and learn from.
 
-A conversational health agent developed as a joint project between Anatolia and AUTH.
+**[velkovski.xyz](https://velkovski.xyz)** — my personal site. TanStack Start from Lovable, deployed on Cloudflare Pages.
 
-### 📊 [NorthEuraLex Language Classifier]()
+<details>
+<summary><b>Background</b></summary>
+<br>
 
-My first experiment with machine learning, an NLP tool that classifies five different languages based on raw word data.
+BSc in Business Computing at ACT, GPA 3.7/4.0, expected grad 2028. Before studying tech I did graphic design (Brainster and freelance on Upwork, 2023–2024), and I've done my time as a barista and bartender — servers don't pay for themselves. Yet.
 
-### 🌐 [velkovski.xyz](https://velkovski.xyz)
+</details>
 
-My personal portfolio site built using TanStack Start and deployed globally on Cloudflare Pages.
-
----
-
-## 💼 Experience & Education
-
-* **BSc in Business Computing** — American College of Thessaloniki (GPA: 3.7/4.0 | Expected 2028)
-* **Junior Graphic Designer** — Brainster & Freelance on Upwork (2023 – 2024)
-* **Barista & Bartender** — Dolap Cafe & Makka Bar (Because tech stacks don't pay for servers... yet)
+<br>
 
 ---
 
-## 📬 Let's Work Together
-I am actively looking for **internships, part-time roles, and project collaborations** in Thessaloniki or remote. Seriously, hire me!
+<div align="center">
 
-* 📧 **Email:** [petar@velkovski.xyz](https://www.google.com/search?q=mailto%3Apetar%40velkovski.xyz)
-* 💼 **LinkedIn:** [linkedin.com/in/velkovskipetar](https://www.google.com/search?q=https://linkedin.com/in/velkovskipetar)
-* 🐙 **GitHub:** [github.com/peeetar](https://www.google.com/search?q=https://github.com/peeetar)
+Currently open to internships, part-time roles and collaborations, in Thessaloniki or remote.<br>
+If something here looks interesting, my inbox is fully open: <a href="mailto:petar@velkovski.xyz">petar@velkovski.xyz</a> :)
+
+</div>
